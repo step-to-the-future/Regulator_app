@@ -1,5 +1,5 @@
-import 'package:dart_course/dart_course.dart' as dart_course;
+import 'package:dart_course/dart_course.dart' as course;
 
-void main(List<String> arguments) {
-  print('Hello world: ${dart_course.calculate()}!');
+void main() {
+  
 }
